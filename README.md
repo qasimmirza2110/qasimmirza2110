@@ -99,18 +99,6 @@ Desktop & AI Apps  →  Java · AI API Integration
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=qasimmirza2110&theme=github-dark-blue&hide_border=true&background=0D1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=999999&dates=666666&stroke=dc262620&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="500"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qasimmirza2110&bg_color=0d1117&color=dc2626&line=dc2626&point=ffffff&area=true&area_color=dc262620&hide_border=true&radius=6" alt="Contribution Graph" width="700"/>
-
-</div>
-
 ---
 
 ## Let's Connect
