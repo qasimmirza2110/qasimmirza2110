@@ -15,6 +15,7 @@
 ![Open to Work](https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-22c55e?style=flat-square&labelColor=0c0c0c)
 ![Available for Freelance](https://img.shields.io/badge/%E2%9A%A1%20AVAILABLE%20FOR%20FREELANCE-f59e0b?style=flat-square&labelColor=0c0c0c)
 ![Mumbai](https://img.shields.io/badge/%F0%9F%93%8D%20MUMBAI%2C%20INDIA-dc2626?style=flat-square&labelColor=0c0c0c)
+![Profile Views](https://komarev.com/ghpvc/?username=qasimmirza2110&color=dc2626&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -102,13 +103,11 @@ Desktop & AI Apps  →  Java · AI API Integration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qasimmirza2110&show_icons=true&theme=github_dark&hide_border=true&title_color=dc2626&icon_color=dc2626&text_color=ffffff&bg_color=0d1117&count_private=true" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimmirza2110&layout=compact&theme=github_dark&hide_border=true&title_color=dc2626&text_color=ffffff&bg_color=0d1117&count_private=true" height="165" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=qasimmirza2110&theme=github-dark-blue&hide_border=true&background=0D1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=999999&dates=666666&stroke=dc262620&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="500"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=qasimmirza2110&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qasimmirza2110&bg_color=0d1117&color=dc2626&line=dc2626&point=ffffff&area=true&area_color=dc262620&hide_border=true&radius=6" alt="Contribution Graph" width="700"/>
 
 </div>
 
