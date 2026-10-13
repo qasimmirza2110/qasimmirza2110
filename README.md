@@ -97,7 +97,6 @@ A live website for a custom-cake business in Lucknow, designed to help visitors 
 
 [Visit live website](https://cakesbyfariha.netlify.app) · [Portfolio case studies](https://qasimmirza-dev.netlify.app)
 
-*I haven't linked a source repository because I could not verify its exact public URL. This avoids sending visitors to the wrong repository.*
 
 ### 06 · Invoice Intelligence — PDF-to-Structured-Data Workflow
 
